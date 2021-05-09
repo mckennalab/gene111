@@ -27,8 +27,6 @@ The course grade is based on the homework assignments. There are no tests or exa
 ### Lectures 
 
 Lecture 1: Intro, central dogma, sequneces, and Jupyter notebooks
-
-
-### Homeworks
-
-Homework 1: Jupyter notebooks and basic Python
+ - Slides
+ - Google Drive Recording
+ - Homework 1: Jupyter notebooks and basic Python
