@@ -28,5 +28,5 @@ The course grade is based on the homework assignments. There are no tests or exa
 
 Lecture 1: Intro, central dogma, sequneces, and Jupyter notebooks
  - [Slides](https://docs.google.com/presentation/d/1Q459d3C6zrLa4pxTNtnsGPBO-f3QVV2fnBQJgXjTbpY/edit?usp=sharing)
- - Google Drive Recording
+ - Google Drive with [Zoom recording for lecture 1](https://drive.google.com/file/d/1LWSG9G_D_2V2ExfsqqmTjATLNAUYJO0n/view?usp=sharing)
  - Homework 1: [Jupyter notebooks and basic Python](https://github.com/mckennalab/gene111/blob/main/assignments/assignment_1/Assignment_1.ipynb)
