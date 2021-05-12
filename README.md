@@ -27,6 +27,12 @@ The course grade is based on the homework assignments. There are no tests or exa
 ### Lectures 
 
 Lecture 1: Intro, central dogma, sequneces, and Jupyter notebooks
- - [Slides](https://docs.google.com/presentation/d/1Q459d3C6zrLa4pxTNtnsGPBO-f3QVV2fnBQJgXjTbpY/edit?usp=sharing)
+ - [Slides](https://drive.google.com/file/d/17OrOEJ2eIyW2IfhpOdYHZ0g4USaIHlF2/view?usp=sharing)
  - Google Drive with [Zoom recording for lecture 1](https://drive.google.com/file/d/1LWSG9G_D_2V2ExfsqqmTjATLNAUYJO0n/view?usp=sharing)
  - Homework 1: [Jupyter notebooks and basic Python](https://github.com/mckennalab/gene111/blob/main/assignments/assignment_1/Assignment_1.ipynb)
+
+
+Lecture 2: Genome, exact string search
+ - [Slides](https://drive.google.com/file/d/1B2IdwqiuvFdFkj9cgYqFQ40f09ctKGO0/view?usp=sharing)
+ - Google Drive with [Zoom recording for lecture 1](https://drive.google.com/file/d/1l1MGsvbaW2-dHU_d6KxSuhGPZqrtZ8Jn/view?usp=sharing)
+ - Homework 2: [Brute force!](https://github.com/mckennalab/gene111/blob/main/assignments/assignment_2/assignment_2.ipynb)
