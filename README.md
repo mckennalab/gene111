@@ -41,7 +41,7 @@ Lecture 3: Genome, exact string search
  - Google Drive with [Zoom recording for lecture 3](https://drive.google.com/file/d/1wWD-39Fd608-bAbNLjwSRkskXFXz-OyQ/view?usp=sharing)
  - Homework 3: [Regex it](https://github.com/mckennalab/gene111/blob/main/assignments/assignment_3/assignment_3.ipynb)
 
-Lecture 3: Genome, exact string search
+Lecture 4: String distances, python and numpy
  - [Slides](https://github.com/mckennalab/gene111/blob/main/lectures/lecture_4/lecture_4.ipynb)
  - Google Drive with [Zoom recording for lecture 4](https://drive.google.com/file/d/1WQtQ24jLDIEU28rv3mPBfreFDw5gakXo/view?usp=sharing)
  - No new homework, catchup on assignment 3 and assignment 2 redos
