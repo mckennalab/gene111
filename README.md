@@ -31,14 +31,20 @@ Lecture 1: Intro, central dogma, sequneces, and Jupyter notebooks
  - Google Drive with [Zoom recording for lecture 1](https://drive.google.com/file/d/1LWSG9G_D_2V2ExfsqqmTjATLNAUYJO0n/view?usp=sharing)
  - Homework 1: [Jupyter notebooks and basic Python](https://github.com/mckennalab/gene111/blob/main/assignments/assignment_1/Assignment_1.ipynb)
 
-
 Lecture 2: Genome, exact string search
  - [Slides](https://drive.google.com/file/d/1B2IdwqiuvFdFkj9cgYqFQ40f09ctKGO0/view?usp=sharing)
  - Google Drive with [Zoom recording for lecture 2](https://drive.google.com/file/d/1l1MGsvbaW2-dHU_d6KxSuhGPZqrtZ8Jn/view?usp=sharing)
  - Homework 2: [Brute force!](https://github.com/mckennalab/gene111/blob/main/assignments/assignment_2/assignment_2.ipynb)
 
-
 Lecture 3: Genome, exact string search
  - [Slides](https://drive.google.com/file/d/1Xw-v3wcMqLHhAcz0r9dH9DGnCEovwdIV/view?usp=sharing)
  - Google Drive with [Zoom recording for lecture 3](https://drive.google.com/file/d/1wWD-39Fd608-bAbNLjwSRkskXFXz-OyQ/view?usp=sharing)
  - Homework 3: [Regex it](https://github.com/mckennalab/gene111/blob/main/assignments/assignment_3/assignment_3.ipynb)
+
+Lecture 3: Genome, exact string search
+ - [Slides](https://github.com/mckennalab/gene111/blob/main/lectures/lecture_4/lecture_4.ipynb)
+ - Google Drive with [Zoom recording for lecture 4](https://drive.google.com/file/d/1WQtQ24jLDIEU28rv3mPBfreFDw5gakXo/view?usp=sharing)
+ - No new homework, catchup on assignment 3 and assignment 2 redos
+
+
+
