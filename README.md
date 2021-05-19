@@ -46,5 +46,10 @@ Lecture 4: String distances, python and numpy
  - Google Drive with [Zoom recording for lecture 4](https://drive.google.com/file/d/1WQtQ24jLDIEU28rv3mPBfreFDw5gakXo/view?usp=sharing)
  - No new homework, catchup on assignment 3 and assignment 2 redos
 
+Lecture 5: Dynamic programming
+ - [Slides](https://github.com/mckennalab/gene111/blob/main/lectures/lecture_5/lecture_5.ipynb)
+ - Google Drive with [Zoom recording for lecture 4](https://drive.google.com/file/d/19EeqURREg5_ScBPaAPvBfoe2gp78lxIY/view?usp=sharing)
+ - Assignment 4 out today, due Friday night (midnight)
+
 
 
