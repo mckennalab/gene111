@@ -48,8 +48,14 @@ Lecture 4: String distances, python and numpy
 
 Lecture 5: Dynamic programming
  - [Slides](https://github.com/mckennalab/gene111/blob/main/lectures/lecture_5/Lecture_5.ipynb)
- - Google Drive with [Zoom recording for lecture 4](https://drive.google.com/file/d/19EeqURREg5_ScBPaAPvBfoe2gp78lxIY/view?usp=sharing)
+ - Google Drive with [Zoom recording for lecture 5](https://drive.google.com/file/d/19EeqURREg5_ScBPaAPvBfoe2gp78lxIY/view?usp=sharing)
  - Assignment 4 out today, due Friday night (midnight)
+
+Lecture 6: Dynamic programming and traceback
+ - [Slides](https://github.com/mckennalab/gene111/blob/main/lectures/lecture_6/lecture_6.ipynb)
+ - Google Drive with [Zoom recording for lecture 6](https://drive.google.com/file/d/1QAfjtP64xo3ujDb1VC6Z6zI2vK5Xt8y-/view?usp=sharing)
+ - [Assignment 5 out today](https://github.com/mckennalab/gene111/tree/main/assignments/assignment_5), due Wednesday the 26th (midnight)
+
 
 
 
