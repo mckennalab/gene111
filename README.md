@@ -56,6 +56,7 @@ Lecture 6: Dynamic programming and traceback
  - Google Drive with [Zoom recording for lecture 6](https://drive.google.com/file/d/1QAfjtP64xo3ujDb1VC6Z6zI2vK5Xt8y-/view?usp=sharing)
  - [Assignment 5 out today](https://github.com/mckennalab/gene111/tree/main/assignments/assignment_5), due Wednesday the 26th (midnight)
 
-
-
-
+Lecture 7: Sequence alignment wrap-up and HMM soft intro
+ - [Slides](https://github.com/mckennalab/gene111/blob/main/lectures/lecture_7/lecture_7.ipynb)
+ - Google Drive with [Zoom recording for lecture 7](https://drive.google.com/file/d/1ZCh9toB79fFMd1MRVvpoC0VA08OoIQz1/view?usp=sharing)
+ - Assignment 5 is due Wednesday, Assignment 6 comes out on Wednesday.
