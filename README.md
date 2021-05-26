@@ -60,3 +60,8 @@ Lecture 7: Sequence alignment wrap-up and HMM soft intro
  - [Slides](https://github.com/mckennalab/gene111/blob/main/lectures/lecture_7/lecture_7.ipynb)
  - Google Drive with [Zoom recording for lecture 7](https://drive.google.com/file/d/1ZCh9toB79fFMd1MRVvpoC0VA08OoIQz1/view?usp=sharing)
  - Assignment 5 is due Wednesday, Assignment 6 comes out on Wednesday.
+
+Lecture 8: HMMs
+ - [Slides](https://github.com/mckennalab/gene111/blob/main/lectures/lecture_8/lecture_8.ipynb)
+ - Google Drive with [Zoom recording for lecture 8](https://drive.google.com/file/d/1e2KAQ4TBj1UqlC4Xn0lBamGYwkcL48ym/view?usp=sharing)
+ - Assignment 5 is due today, Assignment 6 comes out today, due next Tuesday the 1st.
