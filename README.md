@@ -65,3 +65,8 @@ Lecture 8: HMMs
  - [Slides](https://github.com/mckennalab/gene111/blob/main/lectures/lecture_8/lecture_8.ipynb)
  - Google Drive with [Zoom recording for lecture 8](https://drive.google.com/file/d/1e2KAQ4TBj1UqlC4Xn0lBamGYwkcL48ym/view?usp=sharing)
  - Assignment 5 is due today, Assignment 6 comes out today, due next Tuesday the 1st.
+
+Lecture 9: More HMMs and closeout
+ - [Slides](https://github.com/mckennalab/gene111/blob/main/lectures/lecture_9/lecture_9.ipynb)
+ - Google Drive with [Zoom recording for lecture 9](https://drive.google.com/file/d/1Rn3IejtNINVHHIVU8ITbeRQFVXoTnvwI/view?usp=sharing)
+ - Assignment 6 is out and due Tuesday the 1st by Midnight; redo's until Friday the 5rd.
